@@ -414,3 +414,20 @@ ls -lah /usr/lib/jvm/java-8-openjdk-amd64/
 ls -lah /usr/lib/jvm/java-8-openjdk-amd64/jre/
 ls -lah /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/
 exit
+mail
+cd project1/
+ls -lah
+cd ..
+ls -lah
+vi .bash_history 
+cp -p .bash_history project1/
+cd project1/
+ls -lah
+git push orgin
+history |grep git
+git push -u origin master
+git add .bash_history 
+git push -u origin master
+git status
+git commit -m "history"
+git push -u origin master
