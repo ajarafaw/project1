@@ -1,0 +1,7 @@
+-rw-rw-r--  1 wafarajangc wafarajangc  292 Dec 13 20:53 Dockerfile
+drwxrwxr-x  8 wafarajangc wafarajangc 4.0K Dec 13 23:06 .git
+-rw-rw-r--  1 wafarajangc wafarajangc 1.1K Dec 13 23:06 Jenkinsfile
+-rw-rw-r--  1 wafarajangc wafarajangc  367 Dec 13 20:53 main.js
+-rw-rw-r--  1 wafarajangc wafarajangc  488 Dec 13 20:53 package.json
+-rw-rw-r--  1 wafarajangc wafarajangc  635 Dec 13 20:53 README.md
+-rw-rw-r--  1 wafarajangc wafarajangc  133 Dec 13 20:53 test.js
